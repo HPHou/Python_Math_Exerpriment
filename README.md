@@ -2,5 +2,5 @@
 Math_Exerpriment using Python
 
 I prefer physics more than math, because physics is much more realistic.these are some little Math Experiment with python.
-So you can "trust" more math after experiment.
+I hop can "trust" math more than before after these experiment.
 :)
